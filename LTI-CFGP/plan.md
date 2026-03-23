@@ -14,15 +14,15 @@ final document.
 
 ## Artifact Checklist
 
-| #   | Artifact                                                 | Status     | Notes |
-| --- | -------------------------------------------------------- | ---------- | ----- |
-| 1   | LTI Software Description                                 | ⬜ Pending |       |
-| 2   | Main Functions                                           | ⬜ Pending |       |
-| 3   | Lean Canvas (Markdown table)                             | ⬜ Pending |       |
-| 4   | 3 Main Use Cases + Mermaid flowcharts                    | ⬜ Pending |       |
-| 5   | Data Model + Mermaid erDiagram                           | ⬜ Pending |       |
-| 6   | High-Level System Design + Mermaid graph                 | ⬜ Pending |       |
-| 7   | C4 Component Diagram (Notification & Scheduling Service) | ⬜ Pending |       |
+| #   | Artifact                                                 | Status  | Notes |
+| --- | -------------------------------------------------------- | ------- | ----- |
+| 1   | LTI Software Description                                 | ✅ Done |       |
+| 2   | Main Functions                                           | ✅ Done |       |
+| 3   | Lean Canvas (Markdown table)                             | ✅ Done |       |
+| 4   | 3 Main Use Cases + Mermaid flowcharts                    | ✅ Done |       |
+| 5   | Data Model + Mermaid erDiagram                           | ✅ Done |       |
+| 6   | High-Level System Design + Mermaid graph                 | ✅ Done |       |
+| 7   | C4 Component Diagram (Notification & Scheduling Service) | ✅ Done |       |
 
 **Status legend:** ⬜ Pending · 🔄 In Progress · ✅ Done · ❌ Blocked
 
@@ -53,6 +53,6 @@ final document.
 
 ## Session Log
 
-| Date | Artifact | Model Used | Issues |
-| ---- | -------- | ---------- | ------ |
-|      |          |            |        |
+| Date       | Artifact               | Model Used        | Issues                       |
+| ---------- | ---------------------- | ----------------- | ---------------------------- |
+| 2026-03-22 | All 7 (single session) | Claude Sonnet 4.6 | None — generated in one pass |
