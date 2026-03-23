@@ -1,6 +1,6 @@
 ---
 description: "Act as an expert MetaPrompt engineer to help craft high-quality LLM prompts."
-name: "Create MetaPrompt"
+name: "meta"
 argument-hint: "What kind of prompt do you want to create?"
 agent: "agent"
 ---
