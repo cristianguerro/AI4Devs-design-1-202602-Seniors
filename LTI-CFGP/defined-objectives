@@ -1,0 +1,34 @@
+# ATS Minimum Viable Product (MVP) - Main Goals
+
+After a deep web research, I have concluded that to build a competitive Applicant Tracking System (ATS) MVP tailored for small companies (typically under 50-100 employees), the priority must be:
+
+- **Simplicity**
+- **Quick setup**
+- **Elimination of manual administrative work** (over complex enterprise features)
+
+Based on the current needs of small businesses and startups, the MVP should focus on these **top three foundational features**:
+
+### 1. One-Click Job Posting and Syndication
+
+Small businesses generally do not have dedicated sourcing teams and rely heavily on inbound applicants.
+
+- **Job Distribution:** A tool that allows users to create a job listing and distribute it to multiple major job boards (like Indeed and LinkedIn) with a single click.
+- **Career Page:** A simple, customizable branded career page that can be hosted on the company's website to attract local or organic talent.
+
+### 2. Visual Candidate Pipeline and Centralized Management
+
+Small teams are usually upgrading from scattered spreadsheets and messy email inboxes. To make adoption as frictionless as possible:
+
+- **Kanban Pipeline:** A highly visual, drag-and-drop candidate pipeline allowing hiring managers to effortlessly track where applicants are in the process.
+- **Resume Parsing:** A centralized database with basic resume parsing to automatically extract applicant data (contact info, work history) so users do not have to enter it manually.
+
+### 3. Automated Communication and Interview Self-Scheduling
+
+Recruiting in small companies is often handled by founders or HR generalists wearing multiple hats. Removing back-and-forth administrative tasks is critical:
+
+- **Automated Communication:** Email templates and triggered status updates to keep candidates engaged and reduce drop-off.
+- **Self-Scheduling:** Self-service interview scheduling that syncs with the hiring team's native calendars (like Google Calendar or Outlook), allowing candidates to book their own time slots and eliminating endless email chains.
+
+---
+
+_Note: Research conducted using [NotebookLM](https://notebooklm.google/)_
